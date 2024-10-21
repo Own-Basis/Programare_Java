@@ -1,0 +1,10 @@
+8
+2
+3
+5
+7
+2
+Minimul este: 2
+Maximul este: 8
+Suma este: 27.0
+Media este: 4.5
