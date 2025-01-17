@@ -1,0 +1,29 @@
+[ "java.util.HashSet", [ [ "Ex2.Chitara", {
+  "producator" : "Yamaha",
+  "pret" : 2000.0,
+  "nrCorzi" : 6
+} ], [ "Ex2.Chitara", {
+  "producator" : "Gibson",
+  "pret" : 3500.0,
+  "nrCorzi" : 12
+} ], [ "Ex2.Chitara", {
+  "producator" : "Yamhaha",
+  "pret" : 2500.0,
+  "nrCorzi" : 6
+} ], [ "Ex2.SetTobe", {
+  "producator" : "Tama",
+  "pret" : 1500.0,
+  "nrTobe" : 4
+} ], [ "Ex2.Chitara", {
+  "producator" : "Fender",
+  "pret" : 3000.0,
+  "nrCorzi" : 8
+} ], [ "Ex2.SetTobe", {
+  "producator" : "Roland",
+  "pret" : 4000.0,
+  "nrTobe" : 5
+} ], [ "Ex2.SetTobe", {
+  "producator" : "Pearl",
+  "pret" : 2500.0,
+  "nrTobe" : 7
+} ] ] ]

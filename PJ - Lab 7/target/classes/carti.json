@@ -1,0 +1,37 @@
+{
+  "1" : {
+    "titlu" : "Sapiens: A Brief History of Humankind",
+    "autor" : "Yuval Noah Harari",
+    "an" : 2011
+  },
+  "2" : {
+    "titlu" : "Homo Deus: A Brief History of Tomorrow",
+    "autor" : "Yuval Noah Harari",
+    "an" : 2015
+  },
+  "3" : {
+    "titlu" : "The Subtle Art of Not Giving a F*ck",
+    "autor" : "Mark Manson",
+    "an" : 2016
+  },
+  "4" : {
+    "titlu" : "Atomic Habits",
+    "autor" : "James Clear",
+    "an" : 2018
+  },
+  "5" : {
+    "titlu" : "1984",
+    "autor" : "George Orwell",
+    "an" : 1949
+  },
+  "7" : {
+    "titlu" : "The Great Gatsby",
+    "autor" : "F. Scott Fitzgerald",
+    "an" : 1925
+  },
+  "6" : {
+    "titlu" : "To Kill a Mockingbird",
+    "autor" : "Harper Lee",
+    "an" : 1960
+  }
+}
