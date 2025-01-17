@@ -47,7 +47,6 @@ public class Persoana {
             return false;
         }
 
-        // Calcularea cifrei de control
         int[] coeficienti = {2, 7, 9, 1, 4, 6, 3, 5, 8, 2, 7, 9};
         int suma = 0;
         for (int i = 0; i < 12; i++) {
